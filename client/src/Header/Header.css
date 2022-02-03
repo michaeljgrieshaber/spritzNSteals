@@ -1,0 +1,11 @@
+.header{
+  top: 0;
+  background-color: #E7592E;
+  border-style: inset;
+}
+
+.headerLink{
+  color: black;
+  text-decoration: none;
+  font-family: Spirax;  
+}
